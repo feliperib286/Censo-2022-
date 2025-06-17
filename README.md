@@ -52,7 +52,8 @@ Esta aplicação foi desenvolvida como parte da disciplina Desenvolvimento Web I
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/AtividadeCensos.git
+[git clone https://github.com/seu-usuario/AtividadeCensos.git
+](https://github.com/feliperib286/Censo-2022-.git)
 cd AtividadeCensos
 2. Instale e inicie o backend
 bash
