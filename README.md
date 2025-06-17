@@ -43,6 +43,10 @@ Editar
 
 Os dados geográficos utilizados são provenientes do Censo 2022, no formato GeoJSON. Utilizamos **PostgreSQL com a extensão PostGIS** para armazenar e consultar informações espaciais. A importação é feita via script SQL localizado na pasta `data`.
 
+🧠 Créditos
+Esta aplicação foi desenvolvida como parte da disciplina Desenvolvimento Web II (Fatec Jacareí), com foco na integração entre frontend, backend e dados geográficos do Censo Brasileiro.
+
+
 ## ▶️ Como Executar Localmente
 
 ### 1. Clone o repositório
@@ -68,6 +72,6 @@ npm run dev
 4. Acesse a aplicação
 Abra o navegador e vá até: http://localhost:5173
 
-🧠 Créditos
-Esta aplicação foi desenvolvida como parte da disciplina Desenvolvimento Web II (Fatec Jacareí), com foco na integração entre frontend, backend e dados geográficos do Censo Brasileiro.
+
+
 
